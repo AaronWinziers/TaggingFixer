@@ -12,7 +12,7 @@ The script simply combines the <ae> tags that lie within a single document. Thes
 
 The script also outputs the document IDs of all effected documents, allowing for manual checking of the data.
 
-The affected tags should be checked in the final data to confirm that no errors arose as a result of the combining of the tags.
+The affected tags should be checked in the final data to confirm that no errors arose as a result of the combining of the tags. This also allows for the opportunity to remove the '###' from the data and any other errors that may occur.
 
 ### Common resulting error
 A common error that appears is the following:
