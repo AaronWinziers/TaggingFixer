@@ -36,6 +36,8 @@ In order to run the script, either download the ZIP version of this repository a
 
     git clone https://github.com/AaronWinziers/TaggingFixer.git
     
+Before executing, the location of the files that need to be checked should be amended in line 4 of the script.
+    
 Navigate into the folder containing the code, and execute the following in order to install the required packages:
 
     pip3 install -r requirements.txt
@@ -43,3 +45,4 @@ Navigate into the folder containing the code, and execute the following in order
 Then, enter the following to execute the script:
 
     python3 main.py
+    
